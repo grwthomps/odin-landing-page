@@ -71,3 +71,23 @@ body {
 .hero-signup-button {
    align-self: flex-start;
 }
+
+.info-header {
+    font-size: 36px;
+    font-weight: 800;
+    color: #1f2937;
+    text-align: center;
+    padding: 50px;
+}
+
+.info-icon-row {
+    display: flex;
+    justify-content: center;
+    gap: 150px
+}
+
+.info-icon-row-item {
+    /* outline: solid magenta; */
+    text-align: center;
+    width: 130px;
+}
