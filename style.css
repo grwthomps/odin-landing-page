@@ -112,3 +112,39 @@ body {
     color: #1f2937;
     margin-bottom: 10px;
 }
+
+.action {
+    padding: 50px 0px;
+    display: flex;
+    justify-content: center;
+}
+
+.action-banner {
+    background-color: #3882f6;
+    padding: 50px 100px;
+    display: flex;
+    gap: 150px;
+    border-radius: 10px;
+}
+
+.action-header {
+    color: #f9faf8;
+    font-weight: 800;
+    font-size: 24px;
+}
+
+.action-text {
+    color: #e5e7eb;
+    font-size: 18px;
+}
+
+.action-signup-link {
+    color: #f9faf8;
+    border: solid #f9faf8;
+    text-decoration: none;
+    font-weight: 800;
+    align-self: center;
+    padding: 5px 30px;
+    font-size: 18px;
+    border-radius: 5px;
+}
