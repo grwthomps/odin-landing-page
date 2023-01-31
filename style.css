@@ -84,11 +84,31 @@ body {
 .info-icon-row {
     display: flex;
     justify-content: center;
-    gap: 150px
+    gap: 150px;
+    margin-bottom: 50px;
 }
 
 .info-icon-row-item {
-    /* outline: solid magenta; */
     text-align: center;
     width: 130px;
+}
+
+.quote {
+    background-color: #e5e7eb;
+    padding: 100px 0px;
+    display: flex;
+    justify-content: center;
+}
+
+.quote-attribution {
+    text-align: right;
+    font-weight: 800;
+}
+
+.quote-text {
+    font-weight: 300;
+    font-size: 36px;
+    font-style: italic;
+    color: #1f2937;
+    margin-bottom: 10px;
 }
