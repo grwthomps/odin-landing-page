@@ -7,3 +7,6 @@ This is a landing page built using HTML and CSS, with a focus on Flexbox. This i
 - Fox photo (hero picture) is by [Dušan veverkolog](https://unsplash.com/photos/nOsJYzXEG98) on [Unsplash](https://unsplash.com/)
 - Zoo icon (header logo) is by [iconixar](https://www.flaticon.com/free-icon/zoo_2093797) on [flaticon](https://www.flaticon.com/)
 - All other icons (e.g. in the *How Your Donation is Used* section) are by [Handicon](https://www.flaticon.com/authors/handicon) on [flaticon](https://www.flaticon.com/)
+
+## Disclaimer
+All elements of this site are fictional and do not represent the views of The Odin Project or any other creators attributed above.
