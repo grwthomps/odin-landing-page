@@ -93,6 +93,11 @@ body {
     width: 130px;
 }
 
+.bold-text {
+    font-weight: 800;
+    color: #1f2937;
+}
+
 .quote {
     background-color: #e5e7eb;
     padding: 100px 0px;
