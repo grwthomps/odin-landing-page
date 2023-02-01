@@ -92,24 +92,35 @@ body {
     border-radius: 5px;
 }
 
+.info {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding: 50px 0;
+}
+
 .info-header {
     font-size: 36px;
     font-weight: 800;
     color: #1f2937;
     text-align: center;
-    padding: 50px;
+    flex-basis: 100%;
+    margin-bottom: 50px;
 }
 
 .info-icon-row {
+    flex-basis: 50%;
     display: flex;
-    justify-content: center;
-    gap: 150px;
-    margin-bottom: 50px;
+    justify-content: space-between;
 }
 
 .info-icon-row-item {
     text-align: center;
-    width: 130px;
+    flex-basis: 200px;
+}
+
+.icon {
+    margin-bottom: 10px;
 }
 
 .icon-text {
